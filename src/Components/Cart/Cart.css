@@ -1,0 +1,25 @@
+.orange {
+    background-color: orange;
+}
+.blue {
+    background-color: blue;
+}
+.red {
+    background-color: red;
+}
+.yellow {
+    background-color: yellow;
+}
+.green {
+    background-color: green;
+}
+.header {
+    font-size: 30px;
+}
+.header-first-letter{
+    font-size: 40px;
+    font-weight: 700;
+}
+.header-other-letter {
+    font-weight: 799;
+}
